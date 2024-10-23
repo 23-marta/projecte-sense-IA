@@ -1,0 +1,81 @@
+.left{
+    color: #48639C;
+    font-size: 10px;
+    text-align: right;
+  }
+  
+  .container {
+      display: flex;
+      justify-content: space-between;
+      margin: 5px;
+  }
+  
+  .img-grd {
+      width: 1470px;
+      height: auto;
+      padding: 0px;
+      margin: 10px;
+  }
+  
+  .img-pqe {
+      width: 471px;
+      height: auto;
+      padding: 0px;
+      margin: 10px;
+  }
+  
+  .navbar {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 5px 10px;
+      background-color: #63C132;
+      color: #6B9AC4;
+      font-family: Arial, sans-serif;
+  }
+  
+  .navbar-left,
+  .navbar-center,
+  .navbar-right {
+      display: flex;
+      align-items: center;
+  }
+  
+  .navbar-logo {
+      color: #fff;
+      text-decoration: none;
+      font-size: 24px;
+      font-weight: bold;
+  }
+  
+  .search-bar {
+      padding: 5px;
+      font-size: 16px;
+  }
+  
+  .search-button {
+      padding: 5px 10px;
+      margin-left: 5px;
+      background-color: #358600;
+      color: #fff;
+      border: none;
+      cursor: pointer;
+  }
+  
+  .search-button:hover {
+      background-color: #777;
+  }
+  
+  .navbar-link {
+      color: #fff;
+      text-decoration: none;
+      margin-left: 20px;
+      font-size: 24px;
+      font-weight: bold;
+  }
+  
+  .tit-flors {
+      font-size: 15.8px;
+      font-family: serif;
+  }
+  
